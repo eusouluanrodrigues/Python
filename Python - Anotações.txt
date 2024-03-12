@@ -1,0 +1,18 @@
+OPERADORES ARITMÉTICOS
+
++ = Adição
+- = Subtração
+* = Multiplicação
+/ = Divisão
+** = Potência
+// = Divisão Inteira
+% = Resto da Devisão
+
+
+ORDEM DE PROCEDÊNCIA
+
+1° =  ()
+2° =  **
+3° =  *   /  //  %
+4° = +  -
+
